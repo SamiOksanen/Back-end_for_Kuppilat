@@ -1,4 +1,4 @@
-# Back-end_for_Kuppilat
+# Back-end for Kuppilat
 -------------------
 Demonstrates really simple way the capabilities of the Spring MVC web framework and the RESTful web service.
 After reviewing this project, you should have a good understanding of what the basics of Spring MVC and REST can do and get a feel for how easy it is to use.
